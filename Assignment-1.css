@@ -1,0 +1,55 @@
+#heading{
+    display: flex;
+    margin-bottom: 5%;
+}
+#bottom-margin{
+    margin-bottom: 5%;
+}
+#text-edit{
+    font-weight: bold;
+    color: orangered;
+}
+.iub-logo{
+    width: auto;
+    height: auto;
+    margin-left: 8%;
+    margin-top: 5%;
+}
+.versity-name{
+    font-size: 40px;
+    margin-top: 12%;
+    margin-left: 2%;
+}
+.versity-name small:first-child{
+    font-weight: bold;
+}
+.details-table{
+    width: 90%;
+    border-collapse: collapse;
+    margin: auto;
+}
+th{
+    border: 1px solid #000;
+    padding: 8px;
+    text-align: center;
+    background-color: navy;
+    color: white;
+    font-size: 25px;
+    column-span: 2;
+}
+td{
+    border: 1px solid #000;
+    padding: 8px;
+    text-align: left;
+    font-size: 20px;
+}
+.note{
+    margin-left: 50%;
+    font-size: 25px;
+    font-weight: bold;
+}
+.note-details{
+    margin-left: 5%;
+    margin-top: 20px;
+    font-size: 20px;
+}
